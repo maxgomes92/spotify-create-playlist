@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/spotify-create-playlist/static/css/main.188ce029.css",
-    "main.js": "/spotify-create-playlist/static/js/main.783340ad.js",
+    "main.js": "/spotify-create-playlist/static/js/main.bed93099.js",
     "index.html": "/spotify-create-playlist/index.html",
     "main.188ce029.css.map": "/spotify-create-playlist/static/css/main.188ce029.css.map",
-    "main.783340ad.js.map": "/spotify-create-playlist/static/js/main.783340ad.js.map"
+    "main.bed93099.js.map": "/spotify-create-playlist/static/js/main.bed93099.js.map"
   },
   "entrypoints": [
     "static/css/main.188ce029.css",
-    "static/js/main.783340ad.js"
+    "static/js/main.bed93099.js"
   ]
 }
